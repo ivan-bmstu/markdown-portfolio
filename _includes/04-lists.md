@@ -1,0 +1,4 @@
+- [ ] caty
+- [ ] dog
+- [x] mouse
+- [x] rat
